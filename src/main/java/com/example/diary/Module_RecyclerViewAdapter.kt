@@ -1,4 +1,5 @@
 package com.example.myapplication
+//*KYS
 
 import android.graphics.Color
 import android.view.LayoutInflater
